@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkaczmaIT
 - 👀 I’m interested in web development & SEO & C++
-- 🌱 I’m currently learning Wordpress Theme
+- 🌱 I’m currently learning MERN stack
 - 📫 kacperkaczmarczyktic@gmail.com
 
 <!---
