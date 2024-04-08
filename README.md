@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkaczmaIT
 - 👀 I’m interested in web development & SEO & C++
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Symfony
 - 📫 kacperkaczmarczyktic@gmail.com
 
 <!---
